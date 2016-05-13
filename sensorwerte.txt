@@ -1,0 +1,3 @@
+ Temperatur 30C
+ Temperatur 637K
+ Temperatur -3
